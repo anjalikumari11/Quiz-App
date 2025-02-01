@@ -6,7 +6,7 @@
 <img src="./screenshots/3.png">
 
 ## Checkout live demo
-`https://anjalikumari11.github.io/Quiz-App/`
+<a href="https://anjalikumari11.github.io/Quiz-App/" traget="_anjali">Live Demo</a>
 
 ### To Run this project follow these commands
 
