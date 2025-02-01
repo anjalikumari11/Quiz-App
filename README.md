@@ -5,6 +5,9 @@
 <img src="./screenshots/2.png">
 <img src="./screenshots/3.png">
 
+## Checkout live demo
+`https://anjalikumari11.github.io/Quiz-App/`
+
 ### To Run this project follow these commands
 
 ```
